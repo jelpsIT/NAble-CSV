@@ -5,7 +5,7 @@ The program 'Freshservice Discovery Agent' (Publisher: 'Freshdesk') is installed
 PC Name:        LT-POR-00426
 Serial Number:  F5N41Z2
 
-Logged on user: @{username=AD\dobsonj}
+Logged on user: AD\dobsonj
 
 Exists Program
 ------ -------
@@ -13,3 +13,4 @@ Exists Program
 @{Program=Bitdefender; Exists=Yes}.Program	@{Program=Bitdefender; Exists=Yes}.Exists
 @{Program=McAfee; Exists=No}.Program	@{Program=McAfee; Exists=No}.Exists
 @{Program=Global VPN Client; Exists=Yes}.Program	@{Program=Global VPN Client; Exists=Yes}.Exists
+_____________________
