@@ -12,4 +12,5 @@ Exists Program
 @{Program=Webroot; Exists=No}.Program	@{Program=Webroot; Exists=No}.Exists
 @{Program=Bitdefender; Exists=Yes}.Program	@{Program=Bitdefender; Exists=Yes}.Exists
 @{Program=McAfee; Exists=No}.Program	@{Program=McAfee; Exists=No}.Exists
-@{Program=Global VPN Client; Exists=Yes}.Program	@{Program=Global VPN Client; Exists=Yes}.Exists_____________________
+@{Program=Global VPN Client; Exists=Yes}.Program	@{Program=Global VPN Client; Exists=Yes}.Exists
+_____________________
