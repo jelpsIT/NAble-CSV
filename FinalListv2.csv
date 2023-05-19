@@ -4144,3 +4144,19 @@ Exists Program
 @{Program=McAfee; Exists=No}.Program	@{Program=McAfee; Exists=No}.Exists
 @{Program=Global VPN Client; Exists=Yes}.Program	@{Program=Global VPN Client; Exists=Yes}.Exists
 ____________________
+The location of the device with IP 51.241.164.130 is Remote.
+The program 'Windows Agent' (Publisher: 'N-able Technologies') is installed.
+The program 'Freshservice Discovery Agent' (Publisher: 'Freshdesk') is installed.
+
+PC Name:        LT-POR-00377
+Serial Number:  1MHDQ93
+
+Logged on user: AD\furbert
+
+Exists Program
+------ -------
+@{Program=Webroot; Exists=No}.Program	@{Program=Webroot; Exists=No}.Exists
+@{Program=Bitdefender; Exists=Yes}.Program	@{Program=Bitdefender; Exists=Yes}.Exists
+@{Program=McAfee; Exists=No}.Program	@{Program=McAfee; Exists=No}.Exists
+@{Program=Global VPN Client; Exists=Yes}.Program	@{Program=Global VPN Client; Exists=Yes}.Exists
+____________________
