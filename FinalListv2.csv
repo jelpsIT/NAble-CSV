@@ -5264,3 +5264,19 @@ Exists Program
 @{Program=McAfee; Exists=No}.Program	@{Program=McAfee; Exists=No}.Exists
 @{Program=Global VPN Client; Exists=Yes}.Program	@{Program=Global VPN Client; Exists=Yes}.Exists
 ____________________
+The location of the device with IP 151.227.8.32 is Remote.
+The program 'Windows Agent' (Publisher: 'N-able Technologies') is not installed.
+The program 'Freshservice Discovery Agent' (Publisher: 'Freshdesk') is not installed.
+
+PC Name:        LT-POR-00071
+Serial Number:  FHKXTL3
+
+Logged on user: AD\PanczenkoT
+
+Exists Program
+------ -------
+@{Program=Webroot; Exists=No}.Program	@{Program=Webroot; Exists=No}.Exists
+@{Program=Bitdefender; Exists=No}.Program	@{Program=Bitdefender; Exists=No}.Exists
+@{Program=McAfee; Exists=No}.Program	@{Program=McAfee; Exists=No}.Exists
+@{Program=Global VPN Client; Exists=Yes}.Program	@{Program=Global VPN Client; Exists=Yes}.Exists
+____________________
