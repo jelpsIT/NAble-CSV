@@ -6000,3 +6000,19 @@ Exists Program
 @{Program=McAfee; Exists=No}.Program	@{Program=McAfee; Exists=No}.Exists
 @{Program=Global VPN Client; Exists=No}.Program	@{Program=Global VPN Client; Exists=No}.Exists
 ____________________
+The location of the device with IP 174.64.241.21 is Remote.
+The program 'Windows Agent' (Publisher: 'N-able Technologies') is installed.
+The program 'Freshservice Discovery Agent' (Publisher: 'Freshdesk') is installed.
+
+PC Name:        LF-PHX-0043
+Serial Number:  MJ07QW7S
+
+Logged on user: AD\CoxK
+
+Exists Program
+------ -------
+@{Program=Webroot; Exists=No}.Program	@{Program=Webroot; Exists=No}.Exists
+@{Program=Bitdefender; Exists=No}.Program	@{Program=Bitdefender; Exists=No}.Exists
+@{Program=McAfee; Exists=No}.Program	@{Program=McAfee; Exists=No}.Exists
+@{Program=Global VPN Client; Exists=No}.Program	@{Program=Global VPN Client; Exists=No}.Exists
+____________________
