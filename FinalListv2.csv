@@ -6320,3 +6320,19 @@ Exists Program
 @{Program=McAfee; Exists=No}.Program	@{Program=McAfee; Exists=No}.Exists
 @{Program=Global VPN Client; Exists=Yes}.Program	@{Program=Global VPN Client; Exists=Yes}.Exists
 ____________________
+The location of the device with IP 188.220.0.192 is Remote.
+The program 'Windows Agent' (Publisher: 'N-able Technologies') is not installed.
+The program 'Freshservice Discovery Agent' (Publisher: 'Freshdesk') is not installed.
+
+PC Name:        LF-POR-0683
+Serial Number:  F2V8903
+
+Logged on user: AD\StroeA
+
+Exists Program
+------ -------
+@{Program=Webroot; Exists=No}.Program	@{Program=Webroot; Exists=No}.Exists
+@{Program=Bitdefender; Exists=Yes}.Program	@{Program=Bitdefender; Exists=Yes}.Exists
+@{Program=McAfee; Exists=No}.Program	@{Program=McAfee; Exists=No}.Exists
+@{Program=Global VPN Client; Exists=Yes}.Program	@{Program=Global VPN Client; Exists=Yes}.Exists
+____________________
